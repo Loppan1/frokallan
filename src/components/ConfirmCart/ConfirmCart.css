@@ -1,0 +1,27 @@
+.confirm-cart {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin-bottom: 24px;
+}
+
+.confirm-cart-card {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.confirm-cart-card__image {
+    height: 50px;
+    border-radius: 16px;
+}
+
+@media (max-width: 768px) {
+    .confirm-cart {
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+        padding: 0 24px;
+    }
+  
+  }

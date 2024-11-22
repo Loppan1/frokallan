@@ -1,0 +1,44 @@
+[
+    {
+        "title" : "Blommor",
+        "children" : [ "rosor"]
+    },
+    {
+        "title" : "Grönsaker",
+        "children" : [ "chili", "gurka", "kål", "morötter", "paprika", "sallat", "tomater", "zucchini", "övriga"
+        ]
+    },
+    {
+        "title" : "Kryddor",
+        "children" : [ "rosor"]
+    },
+    {
+        "title" : "Lökar & Knölar",
+        "children" : [ "rosor"]
+    },
+    {
+        "title" : "Träd & Buskar",
+        "children" : [ "rosor"]
+    },
+    { 
+      "title" : "tomater",
+      "image" : "https://i.ibb.co/MRsXPp1/pexels-julia-nagy-568948-1327838.jpg",
+      "description" : "Upptäck glädjen i att odla dina egna tomater med våra högkvalitativa tomatfrön! Vi erbjuder ett noga utvalt sortiment av frön som garanterar saftiga och smakrika tomater, perfekta för både nybörjare och erfarna trädgårdsmästare. Våra tomatfrön kommer från hållbara och pålitliga leverantörer, vilket säkerställer att du får friska och kraftiga plantor. Beställ idag och njut av färska, hemodlade tomater direkt från din trädgård – en smakupplevelse som inte kan jämföras med butiksköpta alternativ!"
+    },
+    { "title" : "chili",
+      "image" : "https://i.ibb.co/VLgW2vy/pexels-nickcollins-1274670.jpg"},
+    { "title" : "gurka",
+      "image" : "https://i.ibb.co/DLkf8GN/pexels-paco-alamo-7288783.jpg"},
+    { "title" : "kål",
+      "image" : "https://i.ibb.co/BqMz2LW/pexels-arina-krasnikova-6316537.jpg"},
+    { "title" : "morötter",
+      "image" : "https://i.ibb.co/Wt8jknn/pexels-chokniti-khongchum-1197604-2280550.jpg"},
+    { "title" : "paprika",
+      "image" : "https://i.ibb.co/RbkBGYw/pexels-snapwire-7017.jpg"},
+    { "title" : "sallat",
+      "image" : "https://i.ibb.co/P1S6qLR/pexels-photo-89267.jpg"},
+    { "title" : "zucchini",
+      "image" : "https://i.ibb.co/Njvjfv4/pexels-zul-sulong-587692110-17196492.jpg"},
+    { "title" : "övriga",
+      "image" : "https://i.ibb.co/mSYrvzP/pexels-polina-tankilevitch-3872399.jpg"}
+]

@@ -1,0 +1,23 @@
+.category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 16px;
+    height: fit-content;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.category-card__image {
+    border-radius: 16px;
+    width: 100%;
+}
+
+.category-card__title {
+    text-align: center;
+    margin: 8px;
+}
+
+.category-card:hover {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}

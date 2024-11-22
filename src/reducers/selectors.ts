@@ -1,0 +1,1 @@
+export const selectTotalItems = (state: { cart: { totalItems: any; }; }) => state.cart.totalItems;

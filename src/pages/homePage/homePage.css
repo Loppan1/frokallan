@@ -1,0 +1,23 @@
+.home-page {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 48px;
+    height: fit-content;
+}
+
+.home-page__event {
+    width: 100%;
+    border-radius: 16px;
+    grid-column: span 5;
+    height: 320px;
+    background-color: blue;
+}
+
+@media only screen and (max-width: 768px) {
+    .home-page {
+        display: grid;
+        gap: 8px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+ }

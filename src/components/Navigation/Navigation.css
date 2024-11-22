@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.navigation__links {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav__link {
+    text-decoration: none;
+
+    & h2:hover {
+        color: #CBDABD;
+    }
+}
+
+.navigation__navblock-container {
+    z-index: 1000;
+    position: absolute;
+    top: 100px;
+    left: -448px;
+}

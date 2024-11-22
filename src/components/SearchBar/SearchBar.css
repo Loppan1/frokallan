@@ -1,0 +1,20 @@
+.search-bar {
+    max-width: 100%;
+
+    & input {
+        width: 90%;
+        padding-right: 32px;
+    }
+
+    & input:focus {
+        background-color: #CBDABD50;
+        outline: none;
+    }
+}
+
+.search-bar__search-icon {
+    position: relative;
+    margin-left: -32px;
+    top: 6px;
+    color: #054D3B;
+}

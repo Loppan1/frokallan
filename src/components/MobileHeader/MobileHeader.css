@@ -1,0 +1,19 @@
+.mobile-header {
+    width: 100%;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 4px;
+}
+
+.mobile-header__icon {
+    justify-self: center;
+    margin-top: 80px;
+    padding: 4px;
+}
+
+@media only screen and (max-width: 768px) {
+    .header__basket-counter {
+        width: 20px;
+        height: 20px;
+        margin-top: 78px;
+    }
+}

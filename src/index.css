@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'League Gothic', 'sans-serif';
+  font-size: 48px;
+  letter-spacing: 2.4px;
+  color: #054D3B;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'League Gothic', 'sans-serif';
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  color: #054D3B;
+}
+
+p, a, label, span {
+  font-family: 'Spectral';
+  font-size: 16px;
+}
+
+input {
+  font-family: 'Spectral';
+  font-size: 16px;
+  height: 48px;
+  padding: 8px;
+  border: #054D3B 1px solid;
+  border-radius: 16px;
+}
+
+button {
+  background-color: #8FBD4F;
+  color: #fff;
+  font-family: 'League Gothic', 'sans-serif';
+  font-size: 24px;
+  letter-spacing: 2.4px;
+  font-weight: 400;
+  padding: 4px 14px;
+  border-radius: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #054D3B;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+
+  h1 {
+    font-size: 36px;
+  }
+
+}

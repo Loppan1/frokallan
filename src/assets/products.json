@@ -1,0 +1,250 @@
+[
+    {
+        "artNr": "00001",
+        "category": "tomater",
+        "title": "Körsbärstomat",
+        "name": "Sweet cherry",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/b2JwkTR/pexels-ellie-burgin-1661546-17617620.jpg",
+            "https://i.ibb.co/zGPRG6k/pexels-roman-odintsov-6342165.jpg",
+            "https://i.ibb.co/MRsXPp1/pexels-julia-nagy-568948-1327838.jpg"
+        ],
+        "price": 49.90,
+        "description": [
+            "Upptäck Sweet cherry – vår exklusiva körsbärstomat som är en riktig smakexplosion! Sweet cherry är noggrant utvecklad för att leverera en oöverträffad sötma och saftighet som gör varje tugga till en ren njutning. Dessa små, klarröda tomater är perfekta för både sallader och som ett hälsosamt mellanmål direkt från plantan.", 
+            "Sweet cherry är inte bara välsmakande utan också mycket lättodlad. Denna sort är motståndskraftig mot vanliga tomatsjukdomar och trivs i både krukor och trädgårdsland. Med sin rikliga skörd och långa skördesäsong kan du njuta av färska tomater hela sommaren och långt in på hösten.",
+            "Odla dina egna Sweet cherry körsbärstomater och upplev skillnaden i smak och kvalitet. Perfekt för trädgårdsmästare på alla nivåer, från nybörjare till experter. Beställ dina frön idag och ge din trädgård den sötma den förtjänar!"],
+        "portion": "10 frö",
+        "position": "Sol",
+        "height": "200 cm",
+        "sow": "Feb-April",
+        "germination": "5-15 dagar",
+        "harvest": "Aug-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00002",
+        "category": "tomater",
+        "title": "Plommontomat",
+        "name": "Baby plums",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/6FHWRjP/baby-plums-1.jpg"
+        ],
+        "price": 54.90,
+        "description": ["Baby plums är en delikat plommontomat som erbjuder små, ovala frukter med en söt och saftig smak. Perfekt för sallader, pasta och som ett färgglatt tillägg till dina kulinariska kreationer. Dessa tomater är lättodlade och motståndskraftiga mot vanliga sjukdomar, vilket gör dem idealiska för både nybörjare och erfarna trädgårdsmästare. Baby plums trivs bäst i soliga lägen och ger en riklig skörd under hela sommaren."],
+        "portion": "15 frö",
+        "position": "Sol",
+        "height": "180 cm",
+        "sow": "Feb-April",
+        "germination": "6-14 dagar",
+        "harvest": "Aug-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00003",
+        "category": "tomater",
+        "title": "Tomat",
+        "name": "Super saiyan",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/3hxpJPj/pexels-alejandro-aznar-155337093-29476617.jpg",
+            "https://i.ibb.co/VvH6YNp/pexels-asphotograpy-96616.jpg",
+            "https://i.ibb.co/P9zYRrD/pexels-any-lane-5945657.jpg"
+        ],
+        "price": 59.90,
+        "description": ["Super saiyan är en kraftfull tomat som producerar stora, köttiga frukter med en djup, rik smak. Denna sort är perfekt för såser, grytor och konservering. Super saiyan är mycket produktiv och lättodlad, med god motståndskraft mot sjukdomar. Den trivs i soliga lägen och ger en generös skörd från midsommar till hösten."],
+        "portion": "12 frö",
+        "position": "Sol",
+        "height": "220 cm",
+        "sow": "Feb-April",
+        "germination": "5-12 dagar",
+        "harvest": "Aug-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00004",
+        "category": "tomater",
+        "title": "Tomat",
+        "name": "Tiny Bobby",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/d24RhBN/pexels-karolina-grabowska-4022083.jpg",
+            "https://i.ibb.co/Q8LqSdQ/pexels-karolina-grabowska-4022132.jpg",
+            "https://i.ibb.co/sQNqjHn/pexels-monicore-1391489.jpg"
+        ],
+        "price": 52.90,
+        "description": ["Tiny Bobby är en charmig liten tomat som producerar små, runda frukter med en utsökt sötma. Dessa tomater är perfekta för sallader, snacking och som ett dekorativt inslag i dina maträtter. Tiny Bobby är lättodlad och idealisk för odling i krukor på balkongen eller i trädgården. Denna sort är motståndskraftig mot sjukdomar och ger en riklig skörd under hela sommaren."],
+        "portion": "20 frö",
+        "position": "Sol",
+        "height": "150 cm",
+        "sow": "Feb-April",
+        "germination": "7-14 dagar",
+        "harvest": "Aug-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00005",
+        "category": "tomater",
+        "title": "Bifftomat",
+        "name": "Beefy boy",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/JRBL0Js/pexels-damir-20640320.jpg",
+            "https://i.ibb.co/9rKRBsy/pexels-tanner-barrott-506845-8469442.jpg"
+        ],
+        "price": 64.90,
+        "description": ["Beefy boy är en imponerande bifftomat som producerar stora, köttiga frukter med en rik och fyllig smak. Perfekt för grillning, smörgåsar och som en huvudkomponent i tomatbaserade rätter. Beefy boy är lättodlad och ger en generös skörd under hela säsongen. Denna sort är motståndskraftig mot vanliga tomatsjukdomar och trivs i soliga lägen."],
+        "portion": "8 frö",
+        "position": "Sol",
+        "height": "250 cm",
+        "sow": "Feb-April",
+        "germination": "6-10 dagar",
+        "harvest": "Aug-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00006",
+        "category": "tomater",
+        "title": "Tomat",
+        "name": "Whiskyale",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/Fhypt3f/pexels-ana-prados-1173280375-22036814.jpg",
+            "https://i.ibb.co/2N1GmMX/pexels-boryslav-12417412.jpg"
+        ],
+        "price": 69,
+        "description": ["Whiskyale är en unik bifftomat med en robust smakprofil som påminner om maltig whisky. Denna sort producerar stora, saftiga, mörka frukter som är perfekta för gourmeträtter och exklusiva sallader. Whiskyale är lättodlad och mycket motståndskraftig mot sjukdomar. Den trivs bäst i soliga lägen och ger en riklig skörd under hela säsongen."],
+        "portion": "10 frö",
+        "position": "Sol",
+        "height": "230 cm",
+        "sow": "Feb-April",
+        "germination": "7-12 dagar",
+        "harvest": "Aug-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00002",
+        "category": "tomater",
+        "title": "Plommontomat",
+        "name": "Golden Plum",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/4jNZdbz/tomate-yellow-plum.png",
+            "https://i.ibb.co/khdYGjs/yellowplum.jpg"
+        ],
+        "price": 54.90,
+        "description": [
+            "Golden Plum är vår gyllene plommontomat som kombinerar en vacker färg med en fantastisk smak. Denna tomatsort är känd för sin söta och milda smak, vilket gör den perfekt för sallader och pastarätter.",
+            "Golden Plum är mycket lättodlad och motståndskraftig mot sjukdomar. Den trivs bäst i soliga lägen och ger rikliga skördar under hela sommaren.",
+            "Odla Golden Plum och njut av dess söta och saftiga frukter direkt från trädgården. Perfekt för både nybörjare och erfarna odlare. Beställ dina frön idag och upplev smaken av solmogna tomater!"],
+        "portion": "15 frö",
+        "position": "Sol",
+        "height": "150 cm",
+        "sow": "Feb-April",
+        "germination": "7-14 dagar",
+        "harvest": "July-Sept",
+        "lifespan": "Ettårig",
+        "color": "Gul"
+    },
+    {
+        "artNr": "00003",
+        "category": "tomater",
+        "title": "Bifftomat",
+        "name": "Big Beef",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/XJqYdhj/bigbeef.jpg"
+        ],
+        "price": 59.90,
+        "description": [
+            "Big Beef är vår största och köttigaste bifftomat, perfekt för smörgåsar, sallader och såser. Denna tomat är känd för sin fylliga smak och saftiga konsistens.",
+            "Big Beef är en starkväxande sort som ger stora skördar av jämna och vackra tomater. Den trivs i soliga lägen och är motståndskraftig mot flera tomatsjukdomar.",
+            "Odla Big Beef och njut av de stora, köttiga tomaterna direkt från din trädgård. Perfekt för den som vill ha stora tomater med mycket smak. Beställ dina frön idag och upplev skillnaden i smak och kvalitet!"],
+        "portion": "10 frö",
+        "position": "Sol",
+        "height": "180 cm",
+        "sow": "Feb-April",
+        "germination": "5-10 dagar",
+        "harvest": "Aug-Oct",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00004",
+        "category": "tomater",
+        "title": "Cocktailtomat",
+        "name": "Sweet Cocktail",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/9s3SPBK/pexels-monicore-1391487.jpg"
+        ],
+        "price": 49.90,
+        "description": [
+            "Sweet Cocktail är en liten och söt tomatsort som passar perfekt i sallader och som ett hälsosamt mellanmål. Denna sort har en utmärkt balans mellan sötma och syra, vilket gör den mycket smakrik.",
+            "Sweet Cocktail är lättodlad och ger rikliga skördar under hela säsongen. Den trivs bäst i soliga lägen och är motståndskraftig mot vanliga tomatsjukdomar.",
+            "Odla Sweet Cocktail och njut av de små, söta tomaterna direkt från plantan. Perfekt för både nybörjare och erfarna odlare. Beställ dina frön idag och upptäck skillnaden i smak!"],
+        "portion": "15 frö",
+        "position": "Sol",
+        "height": "160 cm",
+        "sow": "Feb-April",
+        "germination": "6-12 dagar",
+        "harvest": "July-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00005",
+        "category": "tomater",
+        "title": "Oxhjärta",
+        "name": "Giant Oxheart",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/PGH5BYN/oxheart.jpg",
+            "https://i.ibb.co/RcT1NM4/oxheart2.jpg"
+        ],
+        "price": 64.90,
+        "description": [
+            "Giant Oxheart är en stor och hjärtformad tomat med en fyllig smak och köttig konsistens. Denna sort är perfekt för såser, salsor och att äta färsk.",
+            "Giant Oxheart är lättodlad och trivs bäst i soliga lägen. Den ger stora skördar av stora, smakrika tomater som mognar sent på säsongen.",
+            "Odla Giant Oxheart och njut av de stora, köttiga tomaterna direkt från din trädgård. Perfekt för den som vill ha stora tomater med mycket smak. Beställ dina frön idag och upplev skillnaden i kvalitet!"],
+        "portion": "10 frö",
+        "position": "Sol",
+        "height": "170 cm",
+        "sow": "Feb-April",
+        "germination": "7-14 dagar",
+        "harvest": "Aug-Oct",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    },
+    {
+        "artNr": "00006",
+        "category": "tomater",
+        "title": "Pärltomat",
+        "name": "Pearl Drop",
+        "latin": "Solanum lycopersicum",
+        "images": [
+            "https://i.ibb.co/6rwt4hb/pearl.jpg"
+        ],
+        "price": 49.90,
+        "description": [
+            "Pearl Drop är en liten, pärlformad tomat med en intensiv sötma och krispig konsistens. Den är perfekt för sallader, snacks och dekoration.",
+            "Pearl Drop är lättodlad och ger rikliga skördar under hela säsongen. Den trivs bäst i soliga lägen och är motståndskraftig mot vanliga tomatsjukdomar.",
+            "Odla Pearl Drop och njut av de små, söta tomaterna direkt från plantan. Perfekt för både nybörjare och erfarna odlare. Beställ dina frön idag och upptäck skillnaden i smak och kvalitet!"],
+        "portion": "15 frö",
+        "position": "Sol",
+        "height": "140 cm",
+        "sow": "Feb-April",
+        "germination": "5-10 dagar",
+        "harvest": "July-Sept",
+        "lifespan": "Ettårig",
+        "color": "Röd"
+    }
+]

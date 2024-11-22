@@ -1,0 +1,39 @@
+.buy-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 196px;
+    background-color: #CBDABD;
+    border-radius: 16px;
+}
+
+.buy-button__reducer {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    height: 37px;
+}
+
+.buy-minus {
+    background-color: #fff;
+    width: 12px;
+    height: 3px;
+    border-radius: 25%;
+}
+
+.buy-plus-one {
+    background-color: #fff;
+    width: 12px;
+    height: 3px;
+    border-radius: 25%;
+}
+
+.buy-plus-two {
+    position: absolute;
+    transform: rotate(90deg);
+    background-color: #fff;
+    width: 12px;
+    height: 3px;
+    border-radius: 25%;
+}

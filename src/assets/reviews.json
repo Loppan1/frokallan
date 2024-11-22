@@ -1,0 +1,161 @@
+[
+    {
+        "stars" : 5,
+        "author" : "Åsa", 
+        "comment" : "Fantastiskt goda körsbärstomater!",
+        "product" : "00001",
+        "date" : "2024-11-15"
+    },{
+        "stars" : 3.5,
+        "author" : "Göran", 
+        "comment" : "Makalöst smakfulla tomater, men jag trodde dom skulle bli gula",
+        "product" : "00001",
+        "date" : "2024-11-11"
+    },{
+        "stars" : 5,
+        "author" : "Boris", 
+        "comment" : "Mina favoriter!",
+        "product" : "00002",
+        "date" : "2024-11-11"
+    },
+    {
+        "stars": 4,
+        "author": "Elin",
+        "comment": "Jättegoda tomater, men några var lite övermogna.",
+        "product": "00001",
+        "date": "2024-11-14"
+    },
+    {
+        "stars": 2,
+        "author": "Nils",
+        "comment": "Inte så smakrika som jag hade hoppats.",
+        "product": "00002",
+        "date": "2024-11-13"
+    },
+    {
+        "stars": 5,
+        "author": "Karin",
+        "comment": "Perfekta i salladen!",
+        "product": "00003",
+        "date": "2024-11-12"
+    },
+    {
+        "stars": 3,
+        "author": "Mats",
+        "comment": "Ganska bra, men lite för dyra.",
+        "product": "00004",
+        "date": "2024-11-10"
+    },
+    {
+        "stars": 4.5,
+        "author": "Lena",
+        "comment": "Väldigt söta och goda.",
+        "product": "00005",
+        "date": "2024-11-09"
+    },
+    {
+        "stars": 5,
+        "author": "Anna",
+        "comment": "Bästa tomaterna jag köpt!",
+        "product": "00006",
+        "date": "2024-11-08"
+    },
+    {
+        "stars": 3.5,
+        "author": "Oskar",
+        "comment": "Helt okej, men inte fantastiska.",
+        "product": "00007",
+        "date": "2024-11-07"
+    },
+    {
+        "stars": 1,
+        "author": "Per",
+        "comment": "Väldigt besvikna, smaklösa tomater.",
+        "product": "00008",
+        "date": "2024-11-06"
+    },
+    {
+        "stars": 4,
+        "author": "Sofia",
+        "comment": "Goda och krispiga, men lite små.",
+        "product": "00009",
+        "date": "2024-11-05"
+    },
+    {
+        "stars": 5,
+        "author": "Johanna",
+        "comment": "Älskar dem! Kommer köpa igen.",
+        "product": "00010",
+        "date": "2024-11-04"
+    },
+    {
+        "stars": 2.5,
+        "author": "Magnus",
+        "comment": "Helt okej, men inte värda priset.",
+        "product": "00001",
+        "date": "2024-11-03"
+    },
+    {
+        "stars": 5,
+        "author": "Eva",
+        "comment": "Så goda och saftiga!",
+        "product": "00002",
+        "date": "2024-11-02"
+    },
+    {
+        "stars": 3,
+        "author": "Håkan",
+        "comment": "Helt okej tomater, men inget speciellt.",
+        "product": "00003",
+        "date": "2024-11-01"
+    },
+    {
+        "stars": 4,
+        "author": "Maria",
+        "comment": "Bra smak och storlek.",
+        "product": "00004",
+        "date": "2024-10-31"
+    },
+    {
+        "stars": 4.5,
+        "author": "Johan",
+        "comment": "Supergoda tomater!",
+        "product": "00005",
+        "date": "2024-10-30"
+    },
+    {
+        "stars": 5,
+        "author": "Linda",
+        "comment": "Kan inte få nog av dessa tomater.",
+        "product": "00006",
+        "date": "2024-10-29"
+    },
+    {
+        "stars": 3,
+        "author": "Peter",
+        "comment": "De var bra, men några var mjuka.",
+        "product": "00007",
+        "date": "2024-10-28"
+    },
+    {
+        "stars": 2,
+        "author": "Cecilia",
+        "comment": "Ganska smaklösa.",
+        "product": "00008",
+        "date": "2024-10-27"
+    },
+    {
+        "stars": 4.5,
+        "author": "Henrik",
+        "comment": "Bra smak och krispighet.",
+        "product": "00009",
+        "date": "2024-10-26"
+    },
+    {
+        "stars": 5,
+        "author": "Sara",
+        "comment": "Absolut favorittomater!",
+        "product": "00010",
+        "date": "2024-10-25"
+    }
+]
